@@ -67,7 +67,7 @@ def ingfoh():
 f"""{Hj}
  • Info script :
  	
- - author      : Romi Afrizal
+ - Record      : usman prasetya
  - instagram   : romz_xyz
  - facebook    : facebook.com/romi.afrizal.102
  - fanspage    : facebook.com/100022086172556
@@ -189,9 +189,9 @@ except KeyError:
 	IP = " "
 	CN = " "
 
-author = 'Romi Afrizal'
-fb_me = 'facebook.com/romi.afrizal.102'
-github = 'github.com/Mark-Zuck'
+author = 'RECORD BY USMAN PRASETYA HAHA...'
+fb_me = 'Nggak punya facebook cok'
+github = 'https://github.com/usmanprasetyo'
 
 def banner():
 	os.system('clear')
